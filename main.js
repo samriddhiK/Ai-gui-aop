@@ -234,6 +234,6 @@ function draw() {
 function play()
 {
 	song.play();
-	song.setVolume(1);
+	song.setVolume(100);
 	song.rate(1);
 }
